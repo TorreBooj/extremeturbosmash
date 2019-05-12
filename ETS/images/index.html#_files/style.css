@@ -1,28 +1,24 @@
 body {
 	font-family: 'Cinzel Decorative', cursive;
-	background-color: black;
 }
 
 h1 {
 	font-weight: bold;
 	color: #fe019a;
-	margin-left: 40px;
+	margin-left: 78px;
 	font-size: 35px;
 	float: left;
-	margin-top: 17px;
 }
 
 header {
-	overflow: auto;
-	/*position: fixed;*/
-	height: 85px;
+	background-color: black;
 	
 }
 
 nav {
 	float: right;
-	margin-top: 30px;
-	margin-right: 12px;
+	margin-top: 20px;
+	margin-right: 50px;
 
 }
 .dropdown-content {
@@ -51,10 +47,10 @@ nav {
 }
 
 .hero-image {
-	clear: both;
-	text-align: center;
-}
-
-.hero-image img {
-	width: 100%;
+	background: black;
+	display: block;
+ 	margin-left: auto;
+ 	margin-right: auto;
+ 	width: 100%;
+ 	text-align: center;
 }
