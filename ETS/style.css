@@ -1,0 +1,27 @@
+h1 {
+	font-weight: bold;
+	color: #39ff14;
+	background-color: black
+}
+
+.dropdown-content {
+	font-weight: bold;
+	background-color: black;
+	color: pink;
+}
+
+.nav-items {
+	color: pink;
+	background-color: black;
+	font-weight: bold;
+	border: solid black;
+}
+
+.hero-image {
+	background: black;
+	display: block;
+ 	margin-left: auto;
+ 	margin-right: auto;
+ 	width: 100%;
+}
+
